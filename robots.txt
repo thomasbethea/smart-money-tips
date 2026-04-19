@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thomasbethea.github.io/smart-money-tips/sitemap.xml
