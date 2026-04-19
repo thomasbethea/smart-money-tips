@@ -1,0 +1,26 @@
+title: Smart Money Tips
+description: Personal finance, tech deals, and practical money advice.
+url: "https://thomasbethea.github.io"
+baseurl: "/smart-money-tips"
+author: thomasbethea
+email: therealthomasbethea@gmail.com
+
+theme: minima
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+excerpt_separator: <!--more-->
+
+google_analytics: ""  # add your GA4 ID here later
